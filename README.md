@@ -3,7 +3,7 @@ Run basic discovery/scanning tools against a web target
 
 Arguments:
 
--t  specify a single target.  e.x. www.target-org.com/app
+-t  specify a single target.  e.x. http://www.target-org.com/app
 
 -T  give it a file with a list of targets
 
