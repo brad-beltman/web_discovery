@@ -13,6 +13,7 @@ Arguments:
 
 -x  use a proxy for those tools which can use a proxy (HTTP proxy)
 
+
 TODO:
 1. Implement multiprocessing, so multiple instances can be run when more than one target is specified
 2. Add ability to run with multiple wordlists for dirb (currently just uses the default common.txt file)
